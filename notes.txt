@@ -1,1 +1,21 @@
-test notes
+project ideas
+
+https://medium.com/vooban-ai/satellite-image-segmentation-a-workflow-with-u-net-7ff992b2a56e
+
+https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/discussion/31419
+
+https://github.com/rogerxujiang/dstl_unet
+
+http://ataspinar.com/2017/12/04/using-convolutional-neural-networks-to-detect-features-in-sattelite-images/
+
+http://ataspinar.com/2017/08/15/building-convolutional-neural-networks-with-tensorflow/
+
+
+other reading mats
+http://ataspinar.com/2017/08/15/building-convolutional-neural-networks-with-tensorflow/
+
+http://ataspinar.com/2017/12/04/using-convolutional-neural-networks-to-detect-features-in-sattelite-images/
+
+https://arxiv.org/pdf/1610.01178.pdf
+
+https://towardsdatascience.com/whats-after-setting-up-a-gcp-computing-instance-running-a-custom-docker-container-with-tensorflow-eb0f077983c6
