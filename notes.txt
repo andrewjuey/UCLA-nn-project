@@ -5,6 +5,9 @@ https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/kernels
 
 backup project: 
 fashion MNIST
+https://www.kaggle.com/fuzzyfroghunter/getting-started-with-tensorflow
+https://www.kaggle.com/gpreda/cnn-with-tensorflow-keras-for-fashion-mnist
+
 https://www.kaggle.com/kernels?sortBy=relevance&group=everyone&search=tensorflow&page=1&pageSize=20
 https://www.kaggle.com/shenmbsw/data-augmentation-and-tensorflow-u-net
 https://www.kaggle.com/borenamahlet/seedling-classification-cnn-tensorflow
