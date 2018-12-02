@@ -1,5 +1,16 @@
 project ideas
 
+DSTL satellite imagery feature project:
+https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/kernels
+
+backup project: 
+fashion MNIST
+https://www.kaggle.com/kernels?sortBy=relevance&group=everyone&search=tensorflow&page=1&pageSize=20
+https://www.kaggle.com/shenmbsw/data-augmentation-and-tensorflow-u-net
+https://www.kaggle.com/borenamahlet/seedling-classification-cnn-tensorflow
+https://www.kaggle.com/currie32/predicting-fraud-with-tensorflow
+
+
 https://medium.com/vooban-ai/satellite-image-segmentation-a-workflow-with-u-net-7ff992b2a56e
 
 https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/discussion/31419
